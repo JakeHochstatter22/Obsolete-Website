@@ -5,7 +5,7 @@
 
  h1 {
         color: white;
-        -webkit-text-stroke: 3px black;
+        -webkit-text-stroke: 1px black;
         font-size: 100px;
         font-family: "Comic Sans MS"
     }
@@ -21,6 +21,4 @@
     body {
         background-image: linear-gradient(to bottom right, purple, red);
         background-attachment: fixed;
-    }
-    
-    
+	}
