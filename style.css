@@ -23,8 +23,7 @@
         background-attachment: fixed;
 	}
 
-.button1 {
-	border: 3px solid black;
-	background-image: none;
-	color: black;
+.MDQbutton {
+	border: 2px black;
+	
 }
