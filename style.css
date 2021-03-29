@@ -22,3 +22,9 @@
         background-image: linear-gradient(to bottom right, purple, red);
         background-attachment: fixed;
 	}
+
+.button1 {
+	border: 3px solid black;
+	background-image: none;
+	color: black;
+}
